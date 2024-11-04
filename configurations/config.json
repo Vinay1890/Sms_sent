@@ -1,0 +1,12 @@
+{
+    "country_operator_pairs": [
+        {"country": "Uzbekistan", "operator": "UzMobile", "priority": true},
+        {"country": "India", "operator": "Reliance", "priority": false},
+        {"country": "India", "operator": "Vi", "priority": false},
+        {"country": "India", "operator": "Tata Docomo", "priority": false},
+        {"country": "India", "operator": "Airtel", "priority": false},
+        {"country": "Ukraine", "operator": "3Mob", "priority": false},
+        {"country": "Tajikistan", "operator": "TT Mobile", "priority": false},
+        {"country": "Tajikistan", "operator": "Megafon", "priority": false}
+    ]
+}
